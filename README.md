@@ -52,7 +52,7 @@ The trained model achieved an overall accuracy of approximately **98%**, indicat
 
 ---
 
-## ystem Output
+## System Output
 The application accepts user-entered news text and classifies it as:
 - **Real News**
 - **Fake News**
